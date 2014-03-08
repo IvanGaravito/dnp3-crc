@@ -1,0 +1,19 @@
+{
+  "name": "dnp3-crc",
+  "description": "A DNP 3.0 CRC checker and calculator for Node.js",
+  "keywords": ["dnp", "dnp3", "crc", "dnp3-crc"],
+  "version": "1.0.0",
+  "homepage": "https://github.com/IvanGaravito/dnp3-crc",
+  "license": "MIT",
+  "author": {
+    "name": "Ivan Garavito",
+    "email": "ivangaravito@gmail.com",
+    "url": "https://github.com/IvanGaravito"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanGaravito/dnp3-crc.git"
+  },
+  "main": "./index.js",
+  "private": false
+}
